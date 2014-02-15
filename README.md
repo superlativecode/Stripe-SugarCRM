@@ -20,3 +20,7 @@ Installation:
 
 
 Need any SugarCRM Integrations? Contact us because we can help!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/superlativecode/stripe-sugarcrm/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
